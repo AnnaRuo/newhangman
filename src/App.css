@@ -10,7 +10,7 @@ div {
   border-color: #ff0000;
 }
 
-.RemainingGuessCount {
+.RemainingGuesses {
   display: flex;
   width: 500px;
   height: 500px;
@@ -18,7 +18,7 @@ div {
   align-items: center;
 }
 
-.RemainingGuessCount p {
+.RemainingGuesses p {
   font-size: 150px;
   font-weight: bold;
   flex: 1;
